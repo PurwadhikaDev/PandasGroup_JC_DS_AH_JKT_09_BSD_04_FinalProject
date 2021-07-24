@@ -1,6 +1,9 @@
 # PandasGroup_JC_DS_AH_JKT_09_BSD_04_FinalProject
 **BIKE-SHARING RENTAL**
 
+![image](https://user-images.githubusercontent.com/71365164/126863487-26d9ad4d-1c1b-4c5d-b2fa-7b03d857c93b.png)
+
+
 INTRODUCTION
 
 Bike-sharing systems are a new generation of traditional bike rentals where the whole process from membership, rental and return back has become automatic. Through these systems, the user is able to easily rent a bike from a particular position and return back to another position. Today, there exists great interest in these systems due to their important role in traffic, environmental, and health issues.
